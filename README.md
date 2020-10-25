@@ -7,11 +7,11 @@ A **Machine Learning Enthusiast**  very much interested in space and human body 
 [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sandeepbalachandran)
 
 ### Stats
-[![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepbalachandran)](https://www.github.com/sandeepbalachandran)
+[![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepbalachandran&theme=tokyonight&show_icons=true)](https://www.github.com/sandeepbalachandran)
 
 ### Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbalachandran)](https://www.github.com/sandeepbalachandran)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbalachandran&theme=tokyonight&show_icons=true)](https://www.github.com/sandeepbalachandran)
 
 ### You will find projects relatd to Data Science, Machine Learning and Angular 2+ from me.
 Check out my blog on [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sandeepbalachandran)
