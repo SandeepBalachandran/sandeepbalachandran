@@ -17,7 +17,7 @@ A **Machine Learning Enthusiast**  very much interested in space and human body 
 Check out my blog on [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sandeepbalachandran)
 #####  I mostly write about ✍️
 * ##### [Machine Learning](https://dev.to/sandeepbalachandran/machine-learning-introduction-400o)
-* ##### [Angular](https://dev.to/sandeepbalachandran/generate-qr-code-with-share-download-feature-angular-8-3gdm)
+* ##### [Angular](https://dev.to/sandeepbalachandran/angular-dark-fate-48dp)
 * ##### [Laravel](https://dev.to/sandeepbalachandran/how-to-generate-pdf-and-send-it-on-mail-in-laravel-5-8-b8j)
 * ##### [Javascript](https://dev.to/sandeepbalachandran/javascript-journey-31hb)
 
