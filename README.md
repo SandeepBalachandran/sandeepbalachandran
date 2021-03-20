@@ -13,7 +13,7 @@ A **Machine Learning Enthusiast**  very much interested in space and human body 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbalachandran&theme=tokyonight&show_icons=true)](https://www.github.com/sandeepbalachandran)
 
-### You will find projects relatd to Data Science, Machine Learning and Angular 2+ from me.
+### You will find projects related to Javascript (Angular), Data Science and  Machine Learning from me.
 Check out my blog on [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sandeepbalachandran)
 #####  I mostly write about ✍️
 * ##### [Machine Learning](https://dev.to/sandeepbalachandran/machine-learning-introduction-400o)
@@ -26,7 +26,7 @@ Check out my blog on [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&
 * I think I am humorous at awkward situations as well.
 
 ### Hobbies 🕺
-* Learning new [languages](https://www.duolingo.com/profile/Sandeepbalan) (Spanish and french as of now)
+* Learning new [languages](https://www.duolingo.com/profile/Sandeepbalan) (Spanish and german as of now)
 
 
 
