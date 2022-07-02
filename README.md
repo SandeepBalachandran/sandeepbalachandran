@@ -1,5 +1,5 @@
 ### Hola Amigos 👋 Sandeep Here 👨‍💻
-A **Machine Learning Enthusiast**  very much interested in space and human body anatomy.Currently Working as  a  ***front end developer***.
+A ***front end developer*** who wants to be a polygot.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-balachandran-54a79b9b/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sandeepcristi)
